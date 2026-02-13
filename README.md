@@ -43,7 +43,7 @@ Modern portfolio layout inspired by bento grid systems.
 - Clean visual hierarchy  
 - UI-focused experimentation  
 
-🔗 Repository: (link)
+🔗 Repository [link](https://github.com/devis4wd/dynamic-bento-portfolio-page-powered-by-grid)
 
 
 ---
