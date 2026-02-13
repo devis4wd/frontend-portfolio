@@ -14,7 +14,7 @@ Real-world medical website developed as a production project.
 - Responsive layout  
 - Clean UI aligned with medical branding constraints  
 
-🔗 Repository: (link)
+🔗 Repository [link](https://github.com/devis4wd/website-case-study)
 
 
 ### 🎬 FakeFlix – Netflix-style Web Application
@@ -27,14 +27,14 @@ Full-stack web application inspired by Netflix.
 - Custom database structure  
 - Dynamic rendering and state management  
 
-🔗 Repository: (link)
+🔗 Repository [link](https://github.com/devis4wd/netflix-style-web-app-using-tmdb-api)
 
 
 ---
 
 ## 🌐 Portfolio & Layout Experiments
 
-### 🧱 Bento Style Grid Portfolio
+### 🍣 Bento Style Grid Portfolio
 
 Modern portfolio layout inspired by bento grid systems.
 
@@ -48,7 +48,7 @@ Modern portfolio layout inspired by bento grid systems.
 
 ---
 
-## 🚀 Landing Pages & Scroll Animations
+## 🛬 Landing Pages & Scroll Animations
 
 ### 🌊 GSAP Landing Page – Deep Sea Theme
 
@@ -59,10 +59,10 @@ Animated landing page with scroll-driven storytelling.
 - Layered visual composition  
 - Performance-aware animation handling  
 
-🔗 Repository: (link)
+🔗 Repository [link](https://github.com/devis4wd/gsap-scroll-landing-page)
 
 
-### 🪂 Parallax Sections Landing Page
+### 🌙 GSAP Landing Page – Fantasy Moon Parallax
 
 Multi-section landing page with structured parallax transitions.
 
@@ -71,27 +71,25 @@ Multi-section landing page with structured parallax transitions.
 - Modular layout structure  
 - Progressive reveal effects  
 
-🔗 Repository: (link)
+🔗 Repository [link](https://github.com/devis4wd/gsap-moon-parallax-landing)
 
 
 ---
 
 ## 🎮 Games & Interactive Experiments
 
-### 🚀 Space Game
+### 🎲 Space Game
 
-Arcade-style browser game.
+Turn-based browser game.
 
-- Canvas-based rendering  
-- Collision detection logic  
-- Game loop architecture  
-- State handling and scoring system  
+- 3D CSS animations
+- Space-style graphic   
+- State handling and scoring system managed via JavaScript  
 
-🔗 Repository: (link)
+🔗 Repository [link](https://github.com/devis4wd/space-dice-game)
 
 ---
 
 ## 📬 Contact
 
-- LinkedIn: (link)
-- Portfolio Website: (link)
+- 💼 LinkedIn [profile](www.linkedin.com/in/devisvallotto)
