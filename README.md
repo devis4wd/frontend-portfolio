@@ -92,4 +92,4 @@ Turn-based browser game.
 
 ## 📬 Contact
 
-- 💼 LinkedIn [profile](www.linkedin.com/in/devisvallotto)
+- 💼 [LinkedIn](https://www.linkedin.com/in/devisvallotto)
